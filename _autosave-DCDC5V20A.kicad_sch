@@ -1172,7 +1172,7 @@
     (property "Reference" "C12" (at 243.84 79.375 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4u7" (at 243.84 81.915 0)
+    (property "Value" "1u" (at 243.84 81.915 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 240.9952 83.82 0)
